@@ -1,0 +1,9 @@
+# Exclude virtual environment directory
+.venv/
+
+# Exclude bot-related directories
+.bots/
+.cogs/
+
+# Exclude Python cache directories
+__pycache__/
