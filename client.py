@@ -1,5 +1,4 @@
 import discord
-import audioop
 # $ pip install audioop-lts
 
 from dotenv import load_dotenv
